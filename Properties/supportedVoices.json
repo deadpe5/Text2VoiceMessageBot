@@ -1,0 +1,14 @@
+[
+    {
+      "Title": "\uD83C\uDDFA\uD83C\uDDE6 Ostap",
+      "Gender": "Male",
+      "Locale": "uk-UA",
+      "VoiceName": "uk-UA-OstapNeural"
+    },
+    {
+      "Title": "\uD83C\uDDFA\uD83C\uDDE6 Polina",
+      "Gender": "Female",
+      "Locale": "uk-UA",
+      "VoiceName": "uk-UA-PolinaNeural"
+    }
+  ]
